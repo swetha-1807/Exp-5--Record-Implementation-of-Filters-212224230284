@@ -169,9 +169,21 @@ Gaussian filter preserves edges better while reducing noise
 Median filter removes salt-and-pepper noise effectively
 
 
+<img width="902" height="580" alt="image" src="https://github.com/user-attachments/assets/9d0d7ab1-09a3-4b68-8bc8-8ba951577e0c" />
 
+<img width="727" height="430" alt="image" src="https://github.com/user-attachments/assets/9ca5d669-7c2c-4bfd-806c-1d59b2101d69" />
 
+<img width="705" height="437" alt="image" src="https://github.com/user-attachments/assets/8b717337-1ee1-4c2b-90f5-ff4c40f3675c" />
 
+<img width="897" height="580" alt="image" src="https://github.com/user-attachments/assets/aab3679e-0411-413b-abdd-fdb11797863d" />
 
+<img width="726" height="442" alt="image" src="https://github.com/user-attachments/assets/e6160a35-0499-4986-850e-0642259f7e93" />
+
+<img width="790" height="450" alt="image" src="https://github.com/user-attachments/assets/90c3c535-6852-41cc-aaa1-8f67eb84dd79" />
+
+## Result
+
+Thus, smoothing filters and sharpening filters are successfully implemented using OpenCV.
+The smoothing filters reduce noise and improve image quality, while sharpening filters enhance edges and details for better feature extraction.action.
 
 
